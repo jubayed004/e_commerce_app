@@ -15,6 +15,8 @@ class OnBoardingController extends GetxController{
 
   void nextPage (){}
 
+
+
   ///Update Current Index & Jump to the last Page
   void skipPage(){}
 
