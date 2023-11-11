@@ -22,4 +22,12 @@ class OnBoardingController extends GetxController{
 
 
 
+
+
+
+
+
+
+
+
 }
