@@ -7,7 +7,7 @@ class TColors {
   static const Color secondary = Color(0xFFFFE24B);
   static const Color accent = Color(0xFFb0c7ff);
 
-  /// Gradient Colors
+/*  /// Gradient Colors
   static const  Gradient linearGradient = LinearGradient(
       begin: Alignment(0.8, 0.8) ,
       end: Alignment(0.707, -0.707),
@@ -16,7 +16,7 @@ class TColors {
         Color(0xfffad0c4),
         Color(0xfffad0c4),
       ]
-  );
+  );*/
 
   /// Text colors
   static const Color textPrimary = Color(0xFF333333);
